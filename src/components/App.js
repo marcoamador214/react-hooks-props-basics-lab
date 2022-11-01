@@ -11,8 +11,8 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <About />
+      <Home name="Marco Amador" city="Whittier, CA" color="firebrick"/>
+      <About bio="Dedicated, passionate, and team-oriented problem-solver." github="https://github.com/marcoamador214" linkedin="https://www.linkedin.com/in/marco-amador-995601234/"/>
     </div>
   );
 }
